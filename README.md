@@ -49,6 +49,7 @@ The network incorporates a range of routing protocols, address planning techniqu
 ├── 23i-2106.pkt             # Cisco Packet Tracer simulation file
 ├── 23i-2046.pdf      # Detailed project report
 └── README.md                # This file
+```
 🚧 Challenges Faced
 Configuring route redistribution between different protocols
 
