@@ -50,31 +50,38 @@ The network incorporates a range of routing protocols, address planning techniqu
 ├── 23i-2046.pdf      # Detailed project report
 └── README.md                # This file
 ```
-🚧 Challenges Faced
-Configuring route redistribution between different protocols
+<h2>🚧 Challenges Faced</h2>
+<ul>
+  <li>Configuring route redistribution between different protocols</li>
+  <li>Creating precise ACLs to restrict only targeted devices without overblocking</li>
+  <li>Ensuring correct DHCP pools per subnet across the topology</li>
+</ul>
+<p>🧪 These challenges were overcome through rigorous testing, command-level debugging, and the use of <strong>Cisco Packet Tracer</strong>’s verification tools.</p>
 
-Creating precise ACLs to restrict only targeted devices without overblocking
+<hr />
 
-Ensuring correct DHCP pools per subnet across the topology
+<h2>✅ Outcomes</h2>
+<ul>
+  <li>Successfully created a multi-protocol network with full interconnectivity</li>
+  <li>Demonstrated dynamic IP allocation and service-specific access control</li>
+  <li>Ensured seamless internal communication and simulated external access using NAT</li>
+</ul>
 
-🧪 These challenges were overcome through rigorous testing, command-level debugging, and the use of Packet Tracer’s verification tools.
+<hr />
 
-✅ Outcomes
-Successfully created a multi-protocol network with full interconnectivity
+<h2>👩‍💻 Author</h2>
+<p><strong>Fatima Naeem</strong><br />
+Cybersecurity Student<br />
+FAST NUCES<br />
+Roll Number: 23i-XXXX</p>
 
-Demonstrated dynamic IP allocation and service-specific access control
+<hr />
 
-Ensured seamless internal communication and simulated external access using NAT
+<h2>📫 Contact</h2>
+<p>Email: <a href="mailto:fatima123@isb.nu.edu.pk">fatima123@isb.nu.edu.pk</a></p>
 
-👩‍💻 Author
-Fatima Naeem
-Cybersecurity Student
-FAST NUCES
-Roll Number: 23i-XXXX
+<hr />
 
-📫 Contact
+<h2>📜 License</h2>
+<p>This project is for <strong>educational purposes only</strong>.</p>
 
-Email: fatima123@isb.nu.edu.pk
-
-📜 License
-This project is for educational purposes only.
